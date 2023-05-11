@@ -10,7 +10,7 @@ To view the game in your browser, click on the following link:
 
 OR
 
-- git clone [https://github.com/ironhack/lab-css-recipes-clone.git](https://github.com/achref95/millennials-at-work) in your terminal
+- git clone [https://github.com/achref95/millennials-at-work/tree/main](https://github.com/achref95/millennials-at-work) in your terminal
 - cd millennials-at-work
 - open index.html
 
